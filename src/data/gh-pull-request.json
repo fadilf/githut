@@ -594,6 +594,12 @@
     "count": "2"
   },
   {
+    "name": "LabVIEW",
+    "year": "2012",
+    "quarter": "2",
+    "count": "12"
+  },
+  {
     "name": "JavaScript",
     "year": "2012",
     "quarter": "3",
@@ -1186,6 +1192,12 @@
     "year": "2012",
     "quarter": "3",
     "count": "2"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2012",
+    "quarter": "3",
+    "count": "10"
   },
   {
     "name": "Python",
@@ -1782,6 +1794,12 @@
     "count": "3"
   },
   {
+    "name": "LabVIEW",
+    "year": "2012",
+    "quarter": "4",
+    "count": "10"
+  },
+  {
     "name": "JavaScript",
     "year": "2013",
     "quarter": "1",
@@ -2374,6 +2392,12 @@
     "year": "2013",
     "quarter": "1",
     "count": "6"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2013",
+    "quarter": "1",
+    "count": "10"
   },
   {
     "name": "Python",
@@ -2970,6 +2994,12 @@
     "count": "8"
   },
   {
+    "name": "LabVIEW",
+    "year": "2013",
+    "quarter": "2",
+    "count": "17"
+  },
+  {
     "name": "Python",
     "year": "2013",
     "quarter": "3",
@@ -3559,6 +3589,12 @@
   },
   {
     "name": "Cucumber",
+    "year": "2013",
+    "quarter": "3",
+    "count": "12"
+  },
+  {
+    "name": "LabVIEW",
     "year": "2013",
     "quarter": "3",
     "count": "12"
@@ -4158,6 +4194,12 @@
     "count": "18"
   },
   {
+    "name": "LabVIEW",
+    "year": "2013",
+    "quarter": "4",
+    "count": "10"
+  },
+  {
     "name": "JavaScript",
     "year": "2014",
     "quarter": "1",
@@ -4750,6 +4792,12 @@
     "year": "2014",
     "quarter": "1",
     "count": "28"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2014",
+    "quarter": "1",
+    "count": "54"
   },
   {
     "name": "JavaScript",
@@ -5346,6 +5394,12 @@
     "count": "45"
   },
   {
+    "name": "LabVIEW",
+    "year": "2014",
+    "quarter": "2",
+    "count": "38"
+  },
+  {
     "name": "JavaScript",
     "year": "2014",
     "quarter": "3",
@@ -5938,6 +5992,12 @@
     "year": "2014",
     "quarter": "3",
     "count": "50"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2014",
+    "quarter": "3",
+    "count": "46"
   },
   {
     "name": "JavaScript",
@@ -6534,6 +6594,12 @@
     "count": "62"
   },
   {
+    "name": "LabVIEW",
+    "year": "2014",
+    "quarter": "4",
+    "count": "30"
+  },
+  {
     "name": "JavaScript",
     "year": "2015",
     "quarter": "1",
@@ -7126,6 +7192,12 @@
     "year": "2015",
     "quarter": "1",
     "count": "112"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2015",
+    "quarter": "1",
+    "count": "41"
   },
   {
     "name": "JavaScript",
@@ -7722,6 +7794,12 @@
     "count": "94"
   },
   {
+    "name": "LabVIEW",
+    "year": "2015",
+    "quarter": "2",
+    "count": "54"
+  },
+  {
     "name": "JavaScript",
     "year": "2015",
     "quarter": "3",
@@ -8314,6 +8392,12 @@
     "year": "2015",
     "quarter": "3",
     "count": "103"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2015",
+    "quarter": "3",
+    "count": "30"
   },
   {
     "name": "JavaScript",
@@ -8910,6 +8994,12 @@
     "count": "148"
   },
   {
+    "name": "LabVIEW",
+    "year": "2015",
+    "quarter": "4",
+    "count": "45"
+  },
+  {
     "name": "JavaScript",
     "year": "2016",
     "quarter": "1",
@@ -9502,6 +9592,12 @@
     "year": "2016",
     "quarter": "1",
     "count": "182"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2016",
+    "quarter": "1",
+    "count": "52"
   },
   {
     "name": "JavaScript",
@@ -10098,6 +10194,12 @@
     "count": "205"
   },
   {
+    "name": "LabVIEW",
+    "year": "2016",
+    "quarter": "2",
+    "count": "54"
+  },
+  {
     "name": "JavaScript",
     "year": "2016",
     "quarter": "3",
@@ -10690,6 +10792,12 @@
     "year": "2016",
     "quarter": "3",
     "count": "158"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2016",
+    "quarter": "3",
+    "count": "68"
   },
   {
     "name": "JavaScript",
@@ -11286,6 +11394,12 @@
     "count": "194"
   },
   {
+    "name": "LabVIEW",
+    "year": "2016",
+    "quarter": "4",
+    "count": "43"
+  },
+  {
     "name": "JavaScript",
     "year": "2017",
     "quarter": "1",
@@ -11878,6 +11992,12 @@
     "year": "2017",
     "quarter": "1",
     "count": "183"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2017",
+    "quarter": "1",
+    "count": "71"
   },
   {
     "name": "JavaScript",
@@ -12474,6 +12594,12 @@
     "count": "187"
   },
   {
+    "name": "LabVIEW",
+    "year": "2017",
+    "quarter": "2",
+    "count": "71"
+  },
+  {
     "name": "JavaScript",
     "year": "2017",
     "quarter": "3",
@@ -13066,6 +13192,12 @@
     "year": "2017",
     "quarter": "3",
     "count": "184"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2017",
+    "quarter": "3",
+    "count": "39"
   },
   {
     "name": "JavaScript",
@@ -13662,6 +13794,12 @@
     "count": "189"
   },
   {
+    "name": "LabVIEW",
+    "year": "2017",
+    "quarter": "4",
+    "count": "36"
+  },
+  {
     "name": "JavaScript",
     "year": "2018",
     "quarter": "1",
@@ -14254,6 +14392,12 @@
     "year": "2018",
     "quarter": "1",
     "count": "141"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2018",
+    "quarter": "1",
+    "count": "41"
   },
   {
     "name": "JavaScript",
@@ -14850,6 +14994,12 @@
     "count": "132"
   },
   {
+    "name": "LabVIEW",
+    "year": "2018",
+    "quarter": "2",
+    "count": "63"
+  },
+  {
     "name": "Python",
     "year": "2018",
     "quarter": "3",
@@ -15442,6 +15592,12 @@
     "year": "2018",
     "quarter": "3",
     "count": "110"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2018",
+    "quarter": "3",
+    "count": "52"
   },
   {
     "name": "Python",
@@ -16038,6 +16194,12 @@
     "count": "119"
   },
   {
+    "name": "LabVIEW",
+    "year": "2018",
+    "quarter": "4",
+    "count": "46"
+  },
+  {
     "name": "Python",
     "year": "2019",
     "quarter": "1",
@@ -16630,6 +16792,12 @@
     "year": "2019",
     "quarter": "1",
     "count": "104"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2019",
+    "quarter": "1",
+    "count": "43"
   },
   {
     "name": "Python",
@@ -17226,6 +17394,12 @@
     "count": "107"
   },
   {
+    "name": "LabVIEW",
+    "year": "2019",
+    "quarter": "2",
+    "count": "44"
+  },
+  {
     "name": "Python",
     "year": "2019",
     "quarter": "3",
@@ -17818,6 +17992,12 @@
     "year": "2019",
     "quarter": "3",
     "count": "100"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2019",
+    "quarter": "3",
+    "count": "30"
   },
   {
     "name": "Python",
@@ -18414,6 +18594,12 @@
     "count": "99"
   },
   {
+    "name": "LabVIEW",
+    "year": "2019",
+    "quarter": "4",
+    "count": "59"
+  },
+  {
     "name": "Python",
     "year": "2020",
     "quarter": "1",
@@ -19006,6 +19192,12 @@
     "year": "2020",
     "quarter": "1",
     "count": "106"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2020",
+    "quarter": "1",
+    "count": "38"
   },
   {
     "name": "Python",
@@ -19602,6 +19794,12 @@
     "count": "121"
   },
   {
+    "name": "LabVIEW",
+    "year": "2020",
+    "quarter": "2",
+    "count": "52"
+  },
+  {
     "name": "Python",
     "year": "2020",
     "quarter": "3",
@@ -20194,6 +20392,12 @@
     "year": "2020",
     "quarter": "3",
     "count": "83"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2020",
+    "quarter": "3",
+    "count": "36"
   },
   {
     "name": "Python",
@@ -20790,6 +20994,12 @@
     "count": "87"
   },
   {
+    "name": "LabVIEW",
+    "year": "2020",
+    "quarter": "4",
+    "count": "49"
+  },
+  {
     "name": "Python",
     "year": "2021",
     "quarter": "1",
@@ -21382,6 +21592,12 @@
     "year": "2021",
     "quarter": "1",
     "count": "106"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2021",
+    "quarter": "1",
+    "count": "57"
   },
   {
     "name": "Python",
@@ -21978,6 +22194,12 @@
     "count": "92"
   },
   {
+    "name": "LabVIEW",
+    "year": "2021",
+    "quarter": "2",
+    "count": "42"
+  },
+  {
     "name": "Python",
     "year": "2021",
     "quarter": "3",
@@ -22570,6 +22792,12 @@
     "year": "2021",
     "quarter": "3",
     "count": "76"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2021",
+    "quarter": "3",
+    "count": "41"
   },
   {
     "name": "Python",
@@ -23166,6 +23394,12 @@
     "count": "52"
   },
   {
+    "name": "LabVIEW",
+    "year": "2021",
+    "quarter": "4",
+    "count": "57"
+  },
+  {
     "name": "Python",
     "year": "2022",
     "quarter": "1",
@@ -23760,6 +23994,12 @@
     "count": "77"
   },
   {
+    "name": "LabVIEW",
+    "year": "2022",
+    "quarter": "1",
+    "count": "35"
+  },
+  {
     "name": "Python",
     "year": "2022",
     "quarter": "2",
@@ -24352,6 +24592,12 @@
     "year": "2022",
     "quarter": "2",
     "count": "66"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2022",
+    "quarter": "2",
+    "count": "49"
   },
   {
     "name": "Python",
@@ -24954,6 +25200,12 @@
     "count": "85"
   },
   {
+    "name": "LabVIEW",
+    "year": "2022",
+    "quarter": "3",
+    "count": "31"
+  },
+  {
     "name": "Python",
     "year": "2022",
     "quarter": "4",
@@ -25554,6 +25806,12 @@
     "count": "75"
   },
   {
+    "name": "LabVIEW",
+    "year": "2022",
+    "quarter": "4",
+    "count": "44"
+  },
+  {
     "name": "Python",
     "year": "2023",
     "quarter": "1",
@@ -26146,6 +26404,12 @@
     "year": "2023",
     "quarter": "1",
     "count": "74"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2023",
+    "quarter": "1",
+    "count": "46"
   },
   {
     "name": "Python",
@@ -26748,6 +27012,12 @@
     "count": "63"
   },
   {
+    "name": "LabVIEW",
+    "year": "2023",
+    "quarter": "2",
+    "count": "42"
+  },
+  {
     "name": "Python",
     "year": "2023",
     "quarter": "3",
@@ -27340,6 +27610,12 @@
     "year": "2023",
     "quarter": "3",
     "count": "77"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2023",
+    "quarter": "3",
+    "count": "37"
   },
   {
     "name": "Python",
@@ -27942,6 +28218,12 @@
     "count": "66"
   },
   {
+    "name": "LabVIEW",
+    "year": "2023",
+    "quarter": "4",
+    "count": "45"
+  },
+  {
     "name": "Python",
     "year": "2024",
     "quarter": "1",
@@ -28540,5 +28822,11 @@
     "year": "2024",
     "quarter": "1",
     "count": "59"
+  },
+  {
+    "name": "LabVIEW",
+    "year": "2024",
+    "quarter": "1",
+    "count": "37"
   }
 ]
